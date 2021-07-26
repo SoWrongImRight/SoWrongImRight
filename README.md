@@ -9,10 +9,10 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img height="32" width="32" src="https://raw.githubusercontent.com/SoWrongImRight/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
 <a href=""><img src="../img/youtube.svg"></a>&nbsp;&nbsp;
 </p>
-
+https://github.com/SoWrongImRight/SoWrongImRight/blob/eac1cba1b85661e9850bc3db5df76e7c67c15f7b/img/linkedin.svg
 <br />
 
 ### Languages and Tools

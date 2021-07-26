@@ -10,10 +10,10 @@
 ### Connect with me:
 
 <p>
-<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
-<a href=""><img height="32" width="32" src="img/youtube.svg"></a>&nbsp;&nbsp;
-<a href=""><img height="32" width="32" src="img/twitch.svg"></a>&nbsp;&nbsp;
-<a href="mailto:info@rcarroll.dev"><img height="32" width="32" src="img/gmail.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
+<a href=""><img alt="YouTube" height="32" width="32" src="img/youtube.svg"></a>&nbsp;&nbsp;
+<a href=""><img alt="Twitch" height="32" width="32" src="img/twitch.svg"></a>&nbsp;&nbsp;
+<a href="mailto:info@rcarroll.dev"><img alt="email" height="32" width="32" src="img/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
 <br />
@@ -30,17 +30,17 @@
 <img align="left" alt="aws" width="32px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d132a5b9c7d11f9524/topics/aws/aws.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
+<img align="left" alt="visual studio code" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
 </p>
 <br />
 
 ### Learning Wishlist
 
-<img align="left" alt="git" width="32px" src="img/svelte.svg">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="img/go.svg">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="img/java.svg">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="img/ansible.svg">&nbsp;&nbsp;
+<img align="left" alt="svelte" width="32px" src="img/svelte.svg">&nbsp;&nbsp;
+<img align="left" alt="typescript" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
+<img align="left" alt="golang" width="32px" src="img/go.svg">&nbsp;&nbsp;
+<img align="left" alt="java" width="32px" src="img/java.svg">&nbsp;&nbsp;
+<img align="left" alt="ansible" width="32px" src="img/ansible.svg">&nbsp;&nbsp;
 
 <br />
 

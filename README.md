@@ -23,7 +23,10 @@
 <img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?sanitize=true">&nbsp;&nbsp;
-
+<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png?sanitize=true">&nbsp;&nbsp;
+<img align="left" alt="medium" width="22px" src="hhttps://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png?sanitize=true">&nbsp;&nbsp;
+<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?sanitize=true">&nbsp;&nbsp;
+<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
 <br />
 <br />
 

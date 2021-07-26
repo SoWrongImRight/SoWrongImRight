@@ -43,6 +43,7 @@
 
 ### Learning Wishlist
 
+<img align="left" alt="svelte" width="32px" src="img/nodedotjs.svg">&nbsp;&nbsp;
 <img align="left" alt="svelte" width="32px" src="img/svelte.svg">&nbsp;&nbsp;
 <img align="left" alt="typescript" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
 <img align="left" alt="golang" width="32px" src="img/go.svg">&nbsp;&nbsp;

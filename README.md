@@ -8,14 +8,14 @@
 
 ### Connect with me:
 
-![<img align="left" alt="linkedin" height="32" width="32" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg">]
+![Icon](img align="left" alt="linkedin" height="32" width="32" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg")
 <img align="left" alt="youtube" src="https://unpklg.com/simple-icons@v5/icons/youtube.svg" />
 
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">]
+<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <br />
 <br />
 

@@ -1,10 +1,11 @@
 ### Hello, my name is Russ :wave:
 
 ## I'm a Family man :family_man_woman_girl_boy:, Developer :desktop_computer:, and all around Ops guy :exploding_head:.
-- I'm an Exchange Admin with four years of OPS experience
-- I love to learn and am entirely self-taught
-- I'm currently focusing on React, AWS, and DevOps workflows
-- I want to start contributing to Open Source Projects, feel free to give me suggestions!
+- :computer: I'm an Exchange Admin with four years of OPS experience
+- :open_book: I love to learn and am entirely self-taught
+- :scroll: I'm currently focusing on React, AWS, and DevOps workflows
+- :call_me_hand: I want to start contributing to Open Source Projects, feel free to give me suggestions!
+- :game_die: I love to game in all formats! :video_game: :pencil:
 
 ### Connect with me:
 

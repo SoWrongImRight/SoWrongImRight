@@ -31,6 +31,14 @@
 <img align="left" alt="terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
 <br />
+
+### Learning Wishlist
+
+<img align="left" alt="git" width="32px" src="img/svelte.svg">&nbsp;&nbsp;
+<img align="left" alt="git" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
+<img align="left" alt="git" width="32px" src="img/go.svg">&nbsp;&nbsp;
+<img align="left" alt="git" width="32px" src="img/java.svg">&nbsp;&nbsp;
+
 <br />
 
 ### GitHub Stat Cards

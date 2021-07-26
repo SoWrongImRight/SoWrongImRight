@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" scr="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />]
+[<img align="left" alt="linkedin" height="32" width="32" scr="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />]
 [<img align="left" alt="youtube" src="https://unpklg.com/simple-icons@v5/icons/youtube.svg" />]
 
 <br />

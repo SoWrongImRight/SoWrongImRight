@@ -30,6 +30,7 @@
 <img align="left" alt="aws" width="32px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d132a5b9c7d11f9524/topics/aws/aws.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?sanitize=true">&nbsp;&nbsp;
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
+<img align="left" alt="git" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
 </p>
 <br />
 

@@ -80,3 +80,5 @@ If you have any suggestions or advice, feel free to reach out to me :email:
 <img align="left" alt="dungeons and dragons" width="32px" src="img/dungeonsanddragons.svg">&nbsp;&nbsp;
 <img align="left" alt="podcasts" width="32px" src="img/applepodcasts.svg">&nbsp;&nbsp;
 <img align="left" alt="udemy" width="32px" src="img/udemy.svg">&nbsp;&nbsp;
+<img align="left" alt="tryhackme" width="32px" src="img/tryhackme.svg">&nbsp;&nbsp;
+<img align="left" alt="hackthebox" width="32px" src="img/hackthebox.svg">&nbsp;&nbsp;

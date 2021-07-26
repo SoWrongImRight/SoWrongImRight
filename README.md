@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="medium" scr=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] [LinkedIn]
+[<img align="left" alt="medium" scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] [LinkedIn]
 
 <br />
 

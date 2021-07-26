@@ -34,6 +34,7 @@
 <br />
 
 [![SoWrongImRights' GitHub stats](https://github-readme-stats.vercel.app/api?username=SoWrongImRight)](https://github.com/SoWrongImRight/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoWrongImRight)](https://github.com/SoWrongImRight/github-readme-stats)
 
 

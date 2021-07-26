@@ -9,7 +9,7 @@
 ### Connect with me:
 
 <p algin="center>
-<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img src="../img/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img src="https://github.com/SoWrongImRight/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;
 <a href=""><img src="../img/youtube.svg"></a>&nbsp;&nbsp;
 </p>
 

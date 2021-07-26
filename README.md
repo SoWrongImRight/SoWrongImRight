@@ -7,6 +7,8 @@
 - :call_me_hand: I want to start contributing to Open Source Projects, feel free to give me suggestions!
 - :game_die: I love to game in all formats! :video_game: :pencil:
 
+---
+
 ### Connect with me:
 
 <p>

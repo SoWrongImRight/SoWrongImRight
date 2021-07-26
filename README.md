@@ -1,6 +1,6 @@
 ### Hello, my name is Russ :wave:
 
-## I'm a Husband, Father, Developer, and all around OPS guy.
+## I'm a Family man, Developer, and all around OPS guy.
 - I'm an Exchange Admin with four years of OPS experience
 - I love to learn and am entirely self-taught
 - I'm currently focusing on React, AWS, and DevOps workflows
@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<p algin="center>
+<p align="center>
 <a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img height="32" width="32" src="https://raw.githubusercontent.com/SoWrongImRight/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;
 <a href=""><img src="../img/youtube.svg"></a>&nbsp;&nbsp;
 </p>

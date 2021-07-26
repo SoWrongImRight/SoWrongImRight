@@ -4,11 +4,11 @@
 - I'm an Exchange Admin with four years of OPS experience
 - I love to learn and am entirely self-taught
 - I'm currently focusing on React, AWS, and DevOps workflows
-- I really want to contribute to Open Source Projects
+- I really want t o contribute to Open Source Projects
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="linkedin" scr="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 

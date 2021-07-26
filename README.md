@@ -40,6 +40,7 @@
 <img align="left" alt="git" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
 <img align="left" alt="git" width="32px" src="img/go.svg">&nbsp;&nbsp;
 <img align="left" alt="git" width="32px" src="img/java.svg">&nbsp;&nbsp;
+<img align="left" alt="git" width="32px" src="img/ansible.svg">&nbsp;&nbsp;
 
 <br />
 

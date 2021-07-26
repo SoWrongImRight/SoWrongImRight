@@ -18,6 +18,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools
 
 <p>
@@ -34,6 +36,7 @@
 <img align="left" alt="visual studio code" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
 </p>
 <br />
+---
 
 ### Learning Wishlist
 
@@ -44,6 +47,8 @@
 <img align="left" alt="ansible" width="32px" src="img/ansible.svg">&nbsp;&nbsp;
 
 <br />
+
+---
 
 ### GitHub Stat Cards
 

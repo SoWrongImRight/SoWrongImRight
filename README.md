@@ -9,6 +9,17 @@
 
 ---
 
+### What I am working on :keyboard:
+
+I am working on a project called Progrmmer Polyglot.  The intention is to use blogging, livestreaming, and VOD to document my learning of several programming languages in order to:
+- Cement my understanding of the languages and coding in general
+- Provide content for others seeking to learn
+- Showcase the various use-cases for each language
+
+If you have any suggestions or advice, feel free to reach out to me :email:
+
+---
+
 ### Connect with me:
 
 <p>

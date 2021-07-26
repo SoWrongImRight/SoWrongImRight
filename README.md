@@ -1,6 +1,6 @@
 ### Hello, my name is Russ :wave:
 
-## I'm a Family man, Developer, and all around OPS guy.
+## I'm a Family man :family_man_woman_girl_boy:, Developer :desktop_computer:, and all around Ops guy :exploding_head:.
 - I'm an Exchange Admin with four years of OPS experience
 - I love to learn and am entirely self-taught
 - I'm currently focusing on React, AWS, and DevOps workflows

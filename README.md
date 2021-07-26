@@ -36,6 +36,7 @@
 <img align="left" alt="visual studio code" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
 </p>
 <br />
+
 ---
 
 ### Learning Wishlist

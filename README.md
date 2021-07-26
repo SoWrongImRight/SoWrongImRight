@@ -1,4 +1,4 @@
-### Hello, my name is Russ
+### Hello, my name is Russ :wave:
 
 ## I'm a Husband, Father, Developer, and all around OPS guy.
 - I'm an Exchange Admin with four years of OPS experience

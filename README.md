@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
-<a href=""><img src="img/youtube.svg"></a>&nbsp;&nbsp;
+<a href=""><img height="32" width="32" src="img/youtube.svg"></a>&nbsp;&nbsp;
 </p>
 
 <br />

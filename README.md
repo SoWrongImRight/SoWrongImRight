@@ -32,7 +32,7 @@
 <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
 <br />
 <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SoWrongImRight/github-readme-stats)
+[![SoWrongImRights' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SoWrongImRight/github-readme-stats)
 
 
 [LinkedIn]:  https://www.linkedin.com/in/russ-carroll-20a53719a

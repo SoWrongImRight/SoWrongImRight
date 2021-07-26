@@ -63,8 +63,8 @@
 
 ## Hobbies
 
-<img align="left" alt="xbox" width="32px" src="img/xbox.svg">&nbsp;&nbsp;
 <img align="left" alt="nintendo switch" width="32px" src="img/nintendoswitch.svg">&nbsp;&nbsp;
+<img align="left" alt="xbox" width="32px" src="img/xbox.svg">&nbsp;&nbsp;
 <img align="left" alt="dungeons and dragons" width="32px" src="img/dungeonsanddragons.svg">&nbsp;&nbsp;
 <img align="left" alt="podcasts" width="32px" src="img/applepodcasts.svg">&nbsp;&nbsp;
 <img align="left" alt="udemy" width="32px" src="img/udemy.svg">&nbsp;&nbsp;

@@ -8,15 +8,16 @@
 
 ### Connect with me:
 
-
-<img align="left" alt="linkedin" height="32" width="32" scr="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg">
-<img align="left" alt="youtube" src="https://unpklg.com/simple-icons@v5/icons/youtube.svg" />
+<p algin="center>
+<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img src="../img/linkedin.svg"></a>&nbsp;&nbsp;
+<a href=""><img src="../img/youtube.svg"></a>&nbsp;&nbsp;
+</p>
 
 <br />
 
 ### Languages and Tools
 
-![<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?sanitize=true">
+<img align="left" alt="medium" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?sanitize=true">
 <br />
 <br />
 

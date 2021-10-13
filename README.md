@@ -11,7 +11,7 @@
 
 ### What I am working on :keyboard:
 
-I am working on a project called Progrmmer Polyglot.  The intention is to use blogging, livestreaming, and VOD to document my learning of several programming languages in order to:
+I am working on a project called Programmer Polyglot.  The intention is to use blogging, livestreaming, and VOD to document my learning of several programming languages in order to:
 - Cement my understanding of the languages and coding in general
 - Provide content for others seeking to learn
 - Showcase the various use-cases for each language

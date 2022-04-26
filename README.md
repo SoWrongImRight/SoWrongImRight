@@ -24,9 +24,6 @@ If you have any suggestions or advice, feel free to reach out to me :email:
 
 <p>
 <a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
-<a href=""><img alt="YouTube" height="32" width="32" src="img/youtube.svg"></a>&nbsp;&nbsp;
-<a href=""><img alt="Twitch" height="32" width="32" src="img/twitch.svg"></a>&nbsp;&nbsp;
-<a href="mailto:info@rcarroll.dev"><img alt="email" height="32" width="32" src="img/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
 <br />

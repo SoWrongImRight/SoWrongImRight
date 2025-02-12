@@ -1,81 +1,81 @@
-### Hello, my name is Russ :wave:
+# 👋 Hi, I'm Russ Carroll!
 
-## I'm a Family man :family_man_woman_girl_boy:, Developer :desktop_computer:, and all around Ops guy :exploding_head:.
-- :computer: I'm an Exchange Admin with four years of Ops experience
-- :open_book: I love to learn and am entirely self-taught
-- :scroll: I'm currently focusing on React, AWS, and DevOps workflows
-- :call_me_hand: I want to start contributing to Open Source Projects, feel free to give me suggestions!
-- :game_die: I love to game in all formats! :video_game: :pencil:
-
----
-
-### What I am working on :keyboard:
-
-I am working on a project called Programmer Polyglot.  The intention is to use blogging, livestreaming, and VOD to document my learning of several programming languages in order to:
-- Cement my understanding of the languages and coding in general
-- Provide content for others seeking to learn
-- Showcase the various use-cases for each language
-
-If you have any suggestions or advice, feel free to reach out to me :email:
+## 🌟 About Me
+- 🏡 Family man, Developer, and IT Operations professional.
+- 💻 Experienced **Exchange Administrator**, specializing in **Cloud Technologies, DevOps, and Software Development**.
+- 📈 Passionate about **React, AWS, DevOps, and Automation**.
+- 🎮 Gamer at heart—enjoying everything from tabletop to video games.
+- 🌱 Always learning! Currently diving into **Svelte, TypeScript, and Go**.
 
 ---
 
-### Connect with me:
+## 🚀 My Tech Stack
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<p>
-<a href="https://www.linkedin.com/in/russ-carroll-20a53719a"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>&nbsp;&nbsp;
-</p>
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-<br />
-
----
-
-### Languages and Tools
-
-<p>
-<img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="javascript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="html" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="css" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="django" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="visual studio code" width="32px" src="img/powershell.svg">&nbsp;&nbsp;
-<img align="left" alt="aws" width="32px" src="img/amazonaws.svg">&nbsp;&nbsp;
-<img align="left" alt="terraform" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?sanitize=true">&nbsp;&nbsp;
-<img align="left" alt="visual studio code" width="32px" src="img/visualstudiocode.svg">&nbsp;&nbsp;
-</p>
-<br />
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
 
-### Learning Wishlist
+## 🔥 Featured Projects
 
-<img align="left" alt="svelte" width="32px" src="img/nodedotjs.svg">&nbsp;&nbsp;
-<img align="left" alt="svelte" width="32px" src="img/svelte.svg">&nbsp;&nbsp;
-<img align="left" alt="typescript" width="32px" src="img/typescript.svg">&nbsp;&nbsp;
-<img align="left" alt="golang" width="32px" src="img/go.svg">&nbsp;&nbsp;
-<img align="left" alt="java" width="32px" src="img/java.svg">&nbsp;&nbsp;
-<img align="left" alt="ansible" width="32px" src="img/ansible.svg">&nbsp;&nbsp;
+### **1️⃣ [Programmer Polyglot](https://github.com/SoWrongImRight/Programmer-Polyglot)**
+**🚀 Description:** A personal project showcasing learning multiple programming languages.  
+**🔧 Technologies:** Python, JavaScript, Go, TypeScript.  
+**📌 Key Features:**  
+✅ Code examples in multiple languages  
+✅ Interactive coding exercises  
+✅ Documentation & learning resources  
 
-<br />
+### **2️⃣ [Terraform & DevOps Templates](https://github.com/SoWrongImRight/Terraform-DevOps-Templates)**
+**🚀 Description:** Infrastructure as Code templates for cloud automation.  
+**🔧 Technologies:** Terraform, AWS, Docker, Kubernetes.  
+**📌 Key Features:**  
+✅ Reusable Terraform configurations  
+✅ Scalable cloud infrastructure  
+✅ CI/CD deployment pipelines  
+
+### **3️⃣ [React & Svelte Experiments](https://github.com/SoWrongImRight/React-Svelte-Experiments)**
+**🚀 Description:** A collection of experimental projects with React and Svelte.  
+**🔧 Technologies:** React, Svelte, TypeScript, TailwindCSS.  
+**📌 Key Features:**  
+✅ Modern UI component designs  
+✅ State management comparisons  
+✅ Real-world use cases  
 
 ---
 
-### GitHub Stat Cards
+## 📊 GitHub Stats
+![SoWrongImRight's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoWrongImRight&show_icons=true&theme=dark)
 
-[![SoWrongImRights' GitHub stats](https://github-readme-stats.vercel.app/api?username=SoWrongImRight)](https://github.com/SoWrongImRight/github-readme-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoWrongImRight)](https://github.com/SoWrongImRight/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoWrongImRight&layout=compact&theme=dark)
 
 ---
 
-## Hobbies
+## 🏆 Open Source Contributions
+- 💡 Actively contributing to **open-source DevOps and Cloud projects**.
+- 🛠 Helping improve **Terraform, Kubernetes, and Infrastructure Automation templates**.
+- 🎯 Looking for new projects to contribute to—**let's collaborate!**
 
-<img align="left" alt="nintendo switch" width="32px" src="img/nintendoswitch.svg">&nbsp;&nbsp;
-<img align="left" alt="xbox" width="32px" src="img/xbox.svg">&nbsp;&nbsp;
-<img align="left" alt="dungeons and dragons" width="32px" src="img/dungeonsanddragons.svg">&nbsp;&nbsp;
-<img align="left" alt="podcasts" width="32px" src="img/applepodcasts.svg">&nbsp;&nbsp;
-<img align="left" alt="udemy" width="32px" src="img/udemy.svg">&nbsp;&nbsp;
-<img align="left" alt="tryhackme" width="32px" src="img/tryhackme.svg">&nbsp;&nbsp;
-<img align="left" alt="hackthebox" width="32px" src="img/hackthebox.svg">&nbsp;&nbsp;
+---
+
+## 📬 Let's Connect!
+📩 **Email:** rcarroll@rcarroll.dev  
+💼 **LinkedIn:** [Russ Carroll](https://www.linkedin.com/in/russ-carroll/)  
+🌍 **Portfolio:** [Coming Soon!]  
+
+---
+
+### **🚀 Thanks for stopping by! Happy coding!** 👨‍💻🎉

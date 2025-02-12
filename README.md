@@ -22,7 +22,7 @@ I'm an experienced **IT Senior Systems Engineer** specializing in **cloud infras
 
 ### 📫 Contact Me
 📧 Email: [russ.carroll@pm.me](mailto:russ.carroll@pm.me)  
-💼 LinkedIn: [LinkedIn](https://linkedin/in/russ-carroll)
+💼 LinkedIn: [russ-carroll](https://linkedin/in/russ-carroll)
 🌐 Portfolio: [RCARROLL.DEV](https://rcarroll.dev)
 
 ---

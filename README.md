@@ -7,7 +7,7 @@
 
 ## 🛠 About Me
 
-I'm a seasoned IT professional with 15+ years of experience across systems engineering, DevOps, and cloud infrastructure. My passion lies in building scalable systems, driving automation, and aligning engineering efforts with business goals.
+I'm a seasoned IT professional with 7+ years of experience across systems engineering, DevOps, and cloud infrastructure. My passion lies in building scalable systems, driving automation, and aligning engineering efforts with business goals.
 
 I've worked across public and private sectors — from local government to large-scale cloud operations — and currently support Disney as a Senior SRE via TEKsystems.
 

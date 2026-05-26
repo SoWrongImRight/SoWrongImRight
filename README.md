@@ -26,21 +26,20 @@ I've worked across public and private sectors — from local government to large
 
 ## 🔧 Featured Repositories
 
-> More detailed READMEs coming soon — all projects are personal proof-of-concepts built to explore cloud, SRE, and full-stack practices.
-
-- `terraform-s3-vendor-access`: Automates secure access for third-party vendors to AWS S3 buckets.
-- `fastapi-postgres-template`: FastAPI project with PostgreSQL integration for rapid backend API prototyping.
-- `wardrobe-tracker`: A full-stack wardrobe management app using Flutter and FastAPI.
-- `aws-cleanup-tools`: Scripts built to identify unused AWS resources and optimize cloud spend.
+- **[forge-range](https://github.com/SoWrongImRight/forge-range)** — A deliberately vulnerable, local-only security lab for practicing container, web, credential, lateral-movement, and privilege-escalation exercises.
+- **[solarweather-watcher](https://github.com/SoWrongImRight/solarweather-watcher)** — Dockerized Rust service that polls NOAA SWPC space-weather APIs, computes a location-aware impact score, and delivers real-time email/SMS alerts.
+- **[terraform-modules](https://github.com/SoWrongImRight/terraform-modules)** — Reusable Terraform modules for provisioning AWS infrastructure as code.
+- **[armoire](https://github.com/SoWrongImRight/armoire)** — Full-stack wardrobe and style-tracking app built with FastAPI, React, Flutter, PostgreSQL, and Kubernetes.
 
 ---
 
-## 🧭 Career Roadmap: SRE ➡️ Director
+## 🧭 Where I'm Headed
 
-I'm currently pursuing a leadership transition path focused on:
+I'm building toward two connected goals: using technology to launch and grow my own ventures, and advancing along an engineering leadership track.
 
+- 🚀 Leveraging engineering and cloud expertise to start and run my own businesses
+- 📈 Growing toward Director-level engineering leadership
 - 📜 Earning certifications (CSM, AWS DevOps Pro)
-- 🧠 Building cross-functional communication and strategy
 - 👥 Mentoring and leading high-performance teams
 - 📊 Driving cost savings, uptime, and reliability at scale
 
